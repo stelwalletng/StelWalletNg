@@ -123,7 +123,7 @@ Interact directly with Stellar Testnet rather than abstracting away the underlyi
 Do not use production private keys or real funds during development.
 
 Wallet security should be independently reviewed and tested before the application is deployed to mainnet.
-wallet
+wallets
 
 ---
 
